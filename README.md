@@ -36,7 +36,8 @@ Pastikan memiliki
     ```
 
 Atau bisa lagsung menjalankan ketiganya dengan 
-    ```bash
-    go run main.go --migration --seed --run
-    ```
+
+```bash
+go run main.go --migration --seed --run
+```
 
