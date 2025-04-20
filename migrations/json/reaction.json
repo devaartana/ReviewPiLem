@@ -1,0 +1,10 @@
+[
+    {
+        "review_id": 1,
+        "status": true
+    }, 
+    {
+        "review_id": 2,
+        "status": true
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "film_id": 1,
+        "path": "assets/the_shawshank_redemption1.jpg",
+        "status": true
+    },
+    {
+        "film_id": 1,
+        "path": "assets/the_shawshank_redemption2.jpg",
+        "status": false
+    },
+    {
+        "film_id": 2,
+        "path": "assets/inception1.jpg",
+        "status": true
+    },
+    {
+        "film_id": 2,
+        "path": "assets/inception2.jpg",
+        "status": false
+    },
+    {
+        "film_id": 3,
+        "path": "assets/the_godfather1.jpg",
+        "status": true
+    },
+    {
+        "film_id": 3,
+        "path": "assets/the_godfather2.jpg",
+        "status": false
+    },
+    {
+        "film_id": 4,
+        "path": "assets/sinners1.jpg",
+        "status": true
+    },    
+    {
+        "film_id": 4,
+        "path": "assets/sinners2.jpg",
+        "status": false
+    },
+    {
+        "film_id": 5,
+        "path": "assets/a_minecraft_movie1.jpg",
+        "status": true
+    },
+    {
+        "film_id": 5,
+        "path": "assets/a_minecraft_movie2.jpg",
+        "status": false
+    },
+    {
+        "film_id": 5,
+        "path": "assets/a_minecraft_movie3.jpg",
+        "status": false
+    },
+    {
+        "film_id": 5,
+        "path": "assets/a_minecraft_movie3.jpg",
+        "status": false
+    },
+    {
+        "film_id": 5,
+        "path": "assets/a_minecraft_movie4.jpg",
+        "status": false
+    }
+]

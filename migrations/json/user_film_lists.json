@@ -1,0 +1,17 @@
+[
+    {
+        "film_id": 1,
+        "status": "completed",
+        "visibility": true
+    },
+    {
+        "film_id": 4,
+        "status": "plan_to_watch",
+        "visibility": false
+    },
+    {
+        "film_id": 5,
+        "status": "watching",
+        "visibility": true
+    }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "username": "admin",
+    "email": "admin@reviewpilem.com",
+    "display_name": "Admin",
+    "bio": "Administrator sistem",
+    "password": "alamak123",
+    "role": "admin"
+  },
+  {
+    "username": "johndoe",
+    "email": "john@example.com",
+    "display_name": "John Doe",
+    "bio": "Film enthusiast",
+    "password": "alamak123",
+    "role": "user"
+  },
+  {
+    "username": "john pork",
+    "email": "john@pork.com",
+    "display_name": "Movie Lover",
+    "bio": "I watch everything!",
+    "password": "alamak123",
+    "role": "user"
+  },
+  {
+    "username": "tim cheese",
+    "email": "tim@cheese.com",
+    "display_name": "Professional Critic",
+    "bio": "Giving honest reviews",
+    "password": "alamak123",
+    "role": "user"
+  },
+  {
+    "username": "animefan",
+    "email": "anime@fan.com",
+    "display_name": "Anime Fanatic",
+    "bio": "Mostly reviews anime",
+    "password": "alamak123",
+    "role": "user"
+  }
+]

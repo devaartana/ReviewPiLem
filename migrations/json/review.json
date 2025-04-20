@@ -1,0 +1,12 @@
+[
+    {
+        "film_id": 5,
+        "rating" : 9,
+        "comment" : "Good"
+    },
+    {
+        "film_id": 5,
+        "rating" : 6,
+        "comment" : "Meh"
+    }
+]

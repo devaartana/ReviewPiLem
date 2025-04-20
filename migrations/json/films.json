@@ -1,0 +1,37 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "status": "finished_airing",
+        "total_episodes": 1,
+        "release_date": "1994-09-23T00:00:00Z"
+    },
+    {
+        "title": "Inception",
+        "synopsis": "A skilled thief is given a chance at redemption if he can successfully perform an inception: planting an idea in someone's mind.",
+        "status": "finished_airing",
+        "total_episodes": 1,
+        "release_date": "2010-07-16T00:00:00Z"
+    },
+    {
+        "title": "The Godfather",
+        "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "status": "finished_airing",
+        "total_episodes": 1,
+        "release_date": "1972-03-24T00:00:00Z"
+    },
+    {
+        "title": "Sinners",
+        "synopsis": "A dark tale of seven strangers who must confront their deepest sins in a mysterious town that knows their secrets.",
+        "status": "not_yet_aired",
+        "total_episodes": 1,
+        "release_date": "2025-10-10T00:00:00Z"
+    },
+    {
+        "title": "A Minecraft Movie",
+        "synopsis": "In a blocky world of endless possibilities, a young hero must unite the realms to stop a powerful evil from destroying Minecraft.",
+        "status": "airing",
+        "total_episodes": 1,
+        "release_date": "2025-04-04T00:00:00Z"
+    }
+]
